@@ -1,3 +1,4 @@
+# [Project 02] Replication of Linear Mixed-Effects Models (LMM) in Visual Word Recognition
 # morphological-processing-lmm
 
 Python replication of Beyersmann et al. (2012, 2016) on masked morphological priming. Built to apply Linear Mixed-Effects Models (LMM) in psycholinguistics.
